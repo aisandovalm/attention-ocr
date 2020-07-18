@@ -17,6 +17,7 @@ setup(
     author='Ed Medvedev',
     author_email='edward.medvedev@gmail.com',
     version=VERSION,
+    python_requires='~=3.7',
     install_requires=REQUIRED_PACKAGES,
     packages=find_packages(),
     include_package_data=True,

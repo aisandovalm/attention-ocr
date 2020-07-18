@@ -1,6 +1,7 @@
 # ML data
-#datasets/
+datasets/
 checkpoints/
+best_ones/
 models/
 results/
 
